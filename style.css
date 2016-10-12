@@ -8,6 +8,7 @@ h1 {
 }
 
 p {
-    font-family: verdana;
+    color: green;
     font-size: 20px;
+    text-align: center
 }
